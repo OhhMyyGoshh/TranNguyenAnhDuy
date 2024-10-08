@@ -45,7 +45,7 @@ namespace TranNguyenAnhDuy
             Console.WriteLine($"Độ ưu tiên: {DoUuTien}/5");
             Console.WriteLine($"Mô tả: {MoTa}");
             Console.WriteLine($"Trạng thái: {trangThaiText}");
-            Console.WriteLine();
+            Console.WriteLine(new string('-', 40));
         }
     }
 
